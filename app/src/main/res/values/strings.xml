@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ksanqr</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title">Компания Санремо</string>
+    <string name="nav_header_subtitle">Поддержка 8(909)824–11–33</string>
+    <string name="menu_home">Сканирование в чек</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="branch_text">Магазин</string>
+    <string name="seller_text">Продавец</string>
+    <string name="save_btn">Сохранить</string>
+</resources>
